@@ -1,0 +1,32 @@
+House, Name, Occupation, Money, Friends, No longer friends, Unemployment Count, Graduated Count, Dated Count
+244 - KOTA ICHIKAWA - Bricklayer - 4,076 - 9 - 3 - 5 - 3 - 3
+303 - MINH MORRIS - Garbage Collector - 2,474 - 16 - 6 - 0 - 2 - 4
+181 - MARK KIMURA - Stonemason - 8,196 - 25 - 10 - 2 - 3 - 10
+328 - DAISY MORRIS - Bricklayer - 1,204 - 16 - 6 - 0 - 2 - 3
+182 - KAITO WILSON - None - 2,257 - 25 - 9 - 2 - 2 - 6
+204 - ETHAN WILSON - Constable - 8,796 - 17 - 8 - 2 - 2 - 2
+20 - OLSON CARLSEN - Arborist - 6,707 - 23 - 12 - 6 - 3 - 6
+90 - MIA JENSEN - Elementary School Teacher - 5,047 - 13 - 5 - 3 - 3 - 9
+281 - BEAU MORRIS - University student - 1,489 - 22 - 13 - 2 - 2 - 3
+22 - BEAU MORRIS - University student - 1,489 - 22 - 13 - 2 - 2 - 3
+121 - BENOIT RUIZ - Accountant - 6,405 - 9 - 8 - 3 - 3 - 4
+230 - MAYU MORRIS - Pig Farmer - 4,413 - 13 - 4 - 2 - 2 - 4
+276 - ANTHONY MORRIS - Barista - 6,923 - 5 - 2 - 3 - 3 - 3 - 1 - 3 
+348 - CLAIRE MURPHY - Technician - 9,277 - 10 - 4 - 3 - 3 - 4 - 2 - 1 
+164 - MIA WILSON - Midwife - 10,457 - 24 - 11 - 8 - 3 - 5 - 4 - 1 
+160 - MIA WILSON - Midwife - 10,457 - 24 - 11 - 8 - 3 - 5 - 4 - 1 
+372 - MALENA JENSEN - None - 4,788 - 18 - 9 - 4 - 3 - 3 - 4 - 3 
+168 - ELIN SORENSEN - None - 2,649 - 18 - 9 - 3 - 2 - 5 - 7 - 1 
+60 - LENA BLOMGREN - Stonemason - 7,469 - 14 - 8 - 3 - 2 - 4 - 5 - 1 
+375 - NORIKO INOUE - Yoga Society - 2,349 - 21 - 13 - 3 - 1 - 4 - 6 - 1 
+370 - HENRY KING - None - 730 - 11 - 5 - 1 - 1 - 2 - 4 - 2 
+248 - LAURENT MASSON - None - 337 - 13 - 8 - 3 - 1 - 2 - 5 - 1 
+35 - KAREN SORENSEN - None - 2,251 - 15 - 6 - 3 - 3 - 4 - 5 - 0 
+16 - OLINA SORENSEN - Hairdresser - 2,017 - 19 - 9 - 2 - 3 - 6 - 4 - 1 
+312 - LAWRENCE MCCARTHY - Calligrapher - 3,601 - 24 - 14 - 3 - 2 - 5 - 5 - 2 
+239 - ROSALIND CARLSEN - Baker - 1,819 - 14 - 5 - 0 - 2 - 1 - 5 - 2 
+309 - AMBER SATO - Waiter - 2,005 - 14 - 5 - 2 - 3 - 4 - 8 - 2 
+286 - AYA SATO - None - 2,234 - 9 - 2 - 6 - 3 - 2 - 6 - 3 
+203 - VARSHA BABU - Nurse - 7,337 - 22 - 10 - 2 - 2 - 4 - 5 - 1 
+129 - MAX LEGER - Postman - 6,654 - 14 - 6 - 3 - 3 - 4 - 4 - 0 
+358 - LYSIANE HERNANDEZ - None - 258 - 25 - 10 - 2 - 0 - 0 - 5 - 2 
